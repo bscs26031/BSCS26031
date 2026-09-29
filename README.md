@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<!--My website is about the animated movie cars and i sell some of the cars from the movie. I have also added my facebook instagram and linkedin accounts. 
 **bscs26031/BSCS26031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
